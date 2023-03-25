@@ -13,8 +13,9 @@ I'm a bilingual Electronic Engineer, Cisco CCNA R&S certified with focus on DevO
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -26,15 +27,13 @@ I'm a bilingual Electronic Engineer, Cisco CCNA R&S certified with focus on DevO
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
-#
+---
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgrillet&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgrillet&show_icons=true&theme=github_dark&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com?user=carlosgrillet&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly)](https://git.io/streak-stats)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
+---
 
 <details>
  <summary><h3> My Coding Journey</h3></summary>
