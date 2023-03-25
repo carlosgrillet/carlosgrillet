@@ -15,11 +15,7 @@ I'm a bilingual Electronic Engineer, Cisco CCNA R&S certified with focus on DevO
 
 ### 🧰 Languages and Tools 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,javascript,typescript,nodejs,react,vite,dotnet,regex,git,github,nginx,docker,kubernetes,jenkins,ansible,linux,neovim,vscode,discord,stackoverflow,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,javascript,typescript,nodejs,react,vite,dotnet,regex,git,github,nginx,docker,kubernetes,jenkins,ansible,linux,neovim,vscode,discord,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
