@@ -25,7 +25,7 @@ With over 4 years of experience in networking, automation and more than 7 years 
 
 ## 🧰 Tools and Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,md,cmake,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,postman,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,md,cmake,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,postman,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
