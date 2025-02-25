@@ -14,9 +14,7 @@ My expertise includes:
 
 With over 4 years of experience in networking, automation and more than 7 years in both high-level and low-level programming, I bring a strong technical foundation and a commitment to continuous learning. I am always eager to explore new technologies, programming languages, and methodologies while fostering a collaborative environment through leadership, effective team management, and a positive attitude.
 
---- 
-
-This version highlights your skills and experiences in a structured and professional manner while maintaining a tone of enthusiasm and dedication. 😉.
+---
 
    <p align="left"> 
       <a href="https://github.com/carlosgrillet?tab=followers">
@@ -29,7 +27,7 @@ This version highlights your skills and experiences in a structured and professi
 
 ## 🧰 Tools and Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,md,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,kafka,ansible,terraform,aws,linux,redhat,neovim,postman,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,md,cmake,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,postman,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
