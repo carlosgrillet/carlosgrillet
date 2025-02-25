@@ -12,7 +12,7 @@ My expertise includes:
 
 With over 4 years of experience in networking, automation and more than 7 years in both high-level and low-level programming, I bring a strong technical foundation and a commitment to continuous learning. I am always eager to explore new technologies, programming languages, and methodologies while fostering a collaborative environment through leadership, effective team management, and a positive attitude.
 
-   <p align="left"> 
+   <p align="center"> 
       <a href="https://github.com/carlosgrillet?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/carlosgrillet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/carlosgrillet?tab=repositories&sort=stargazers">
