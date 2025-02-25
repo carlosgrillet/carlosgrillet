@@ -32,7 +32,8 @@ With over 4 years of experience in networking, automation and more than 7 years 
 ![Snake ](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgrillet&show_icons=true&theme=github_dark&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com?user=carlosgrillet&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgrillet\&show_icons=true\&theme=github_dark\&hide_border=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgrillet\&show_icons=true\&theme=github_dark\&hide_border=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlosgrillet)
 
 ---
 
