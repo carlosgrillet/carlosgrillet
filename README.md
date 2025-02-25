@@ -40,7 +40,7 @@ With over 4 years of experience in networking, automation and more than 7 years 
 <details>
  <summary><h3> My Coding Journey</h3></summary>
    
-    I began my coding journey at the age of 14. It all started when I noticed that the Windows XP calculator application looked a bit outdated to me. This prompted me to search online for "how to create a calculator in Windows." My search led me to a YouTube video titled "How to Develop a Calculator in Java" using NetBeans 5. After a few days, I completed my own calculator and absolutely loved it. At the time, I didn’t fully understand what I was doing while writing the code, so I decided to teach myself Java.
+   I began my coding journey at the age of 14. It all started when I noticed that the Windows XP calculator application looked a bit outdated to me. This prompted me to search online for "how to create a calculator in Windows." My search led me to a YouTube video titled "How to Develop a Calculator in Java" using NetBeans 5. After a few days, I completed my own calculator and absolutely loved it. At the time, I didn’t fully understand what I was doing while writing the code, so I decided to teach myself Java.
    
    Once I had learned Java, I developed basic applications, such as scripts to move files from one folder to another. As time passed, I heard about Python, which caught my attention. After watching a four-hour YouTube tutorial titled "Learn Python in 4 Hours," I gained enough knowledge to write basic scripts. That’s when I truly began to immerse myself in coding.
    
