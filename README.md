@@ -39,7 +39,7 @@ With over 4 years of experience in networking, automation and more than 7 years 
      <img height=100 align="center" src="https://streak-stats.demolab.com?user=carlosgrillet&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly" />
    </a>
    <a href="https://github.com/anuraghazra/convoychat">
-     <img height=100 align="right" src="https://streak-stats.demolab.com?user=carlosgrillet&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly" />
+     <img height=100 align="center" src="https://streak-stats.demolab.com?user=carlosgrillet&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly" />
    </a>
 </a>
 
