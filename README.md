@@ -32,10 +32,10 @@ With over 4 years of experience in networking, automation and more than 7 years 
 ![Snake ](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosgrillet&show_icons=true&theme=github_dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosgrillet&show_icons=true&theme=github_dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-   <img height=250 align="center" src="https://streak-stats.demolab.com?user=carlosgrillet&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img height=200 align="center" src="https://streak-stats.demolab.com?user=carlosgrillet&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly" />
 </a>
 
 ---
