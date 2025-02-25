@@ -36,6 +36,8 @@ With over 4 years of experience in networking, automation and more than 7 years 
    <img height=210 align="center" src="https://streak-stats.demolab.com?user=carlosgrillet&theme=github-dark-blue&hide_border=true&border_radius=15.1&mode=weekly" />
 </a>
 
+<img height=210 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" />
+
 ---
 
 <details>
