@@ -2,8 +2,6 @@
 
 **`One more bit in the matrix (Developer/Engineer/Gamer)`**
 
-**Professional Profile**
-
 I am a bilingual Electronics Engineer with Cisco CCNA Routing & Switching certification, specializing in DevOps, DevNet, cybersecurity, network automation, and Linux systems administration. 
 
 My expertise includes:
