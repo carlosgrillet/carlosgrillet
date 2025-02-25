@@ -2,7 +2,21 @@
 
 **`One more bit in the matrix (Developer/Engineer/Gamer)`**
 
-I'm a bilingual Electronic Engineer, Cisco CCNA R&S certified with focus on DevOps and DevNet, cybersecurity, network automation and Linux systems administration. My main programming languages are Python, C, Javascript and bash. I've worked with Cisco and fortinet security appliance, Kali Linux, RHLE, CentOS, Ubuntu, FreeBSD, amazon linux and many more unix-based operating systems. I have 4 years of experience in the networking area and more than 7 years of experience in high level and low leven programming. I'm always learning something new, some new programming languages, new techonologies and sharing my knowledge with good vibes, leadership and good team management 😉.
+**Professional Profile**
+
+I am a bilingual Electronics Engineer with Cisco CCNA Routing & Switching certification, specializing in DevOps, DevNet, cybersecurity, network automation, and Linux systems administration. 
+
+My expertise includes:
+- **Programming Languages**: Python, C, JavaScript, Bash
+- **Networking & Security**: Cisco and Fortinet security appliances, with hands-on experience in network design, implementation, and troubleshooting.
+- **Operating Systems**: Extensive experience with Unix-based systems including Kali Linux, RHEL, CentOS, Ubuntu, FreeBSD, Amazon Linux, and others.
+- **Automation & Cybersecurity**: Proficient in network automation tools and cybersecurity best practices to enhance system efficiency and security.
+
+With over 4 years of experience in networking, automation and more than 7 years in both high-level and low-level programming, I bring a strong technical foundation and a commitment to continuous learning. I am always eager to explore new technologies, programming languages, and methodologies while fostering a collaborative environment through leadership, effective team management, and a positive attitude.
+
+--- 
+
+This version highlights your skills and experiences in a structured and professional manner while maintaining a tone of enthusiasm and dedication. 😉.
 
    <p align="left"> 
       <a href="https://github.com/carlosgrillet?tab=followers">
@@ -15,7 +29,7 @@ I'm a bilingual Electronic Engineer, Cisco CCNA R&S certified with focus on DevO
 
 ## 🧰 Tools and Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,javascript,typescript,nodejs,react,vite,dotnet,regex,git,github,nginx,docker,kubernetes,jenkins,ansible,linux,neovim,vscode,discord,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,react,regex,git,github,nginx,docker,kubernetes,jenkins,ansible,terraform,aws,linux,neovim,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
