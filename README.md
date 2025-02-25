@@ -29,7 +29,7 @@ This version highlights your skills and experiences in a structured and professi
 
 ## 🧰 Tools and Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,ansible,terraform,aws,linux,neovim,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,ansible,terraform,aws,linux,redhat,neovim,postman,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
