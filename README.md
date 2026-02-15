@@ -2,26 +2,29 @@
 
 **`One more bit in the matrix (Developer/Engineer/Gamer)`**
 
-I am a bilingual Electronics Engineer with Cisco CCNA Routing & Switching certification, specializing in DevOps, DevNet, cybersecurity, network automation, and Linux systems administration. 
+What has always driven me is figuring out how things actually work, whether that means reading and uderstanding the source code, digging into docs, or just breaking stuff to see what happens 😄 That curiosity's given me a pretty wide and deep view of how systems work together, and honestly, I love to understand everything.
 
-My expertise includes:
-- **Programming Languages**: Python, Go, Bash
-- **Networking & Security**: Cisco and Fortinet security appliances, with hands-on experience in network design, implementation, and troubleshooting.
-- **Operating Systems**: Extensive experience with Unix-based systems including Kali Linux, RHEL, CentOS, Ubuntu, FreeBSD, Amazon Linux, and others.
-- **Automation & Cybersecurity**: Proficient in network automation tools and cybersecurity best practices to enhance system efficiency and security.
+It started with programming. I code mostly in Go, C, and Python, and I'll throw in some Bash when I need to glue things together or automate stuff. That tinkering habit naturally spilled over into Linux and Unix systems; I'm comfortable on pretty much any Linux distro. And yeah, I'll happily compile something from source just to see how it's built.
 
-With over 4 years of experience in networking, automation and more than 7 years in both high-level and low-level programming, I bring a strong technical foundation and a commitment to continuous learning. I am always eager to explore new technologies, programming languages, and methodologies while fostering a collaborative environment through leadership, effective team management, and a positive attitude.
+That same hands-on energy led me into networking too. I've worked with Cisco, Fortinet, and Mikrotik gear, setting up networks from scratch, debugging the usual headaches, and keeping things running. Along the way, I got really into automating repetitive tasks, whether through quick Python/Bash scripts or by designing systems that are both efficient and secure in Go.
+
+These days, I'm applying all that to the cloud side, using AWS and Terraform to manage infrastructure, and diving into Kubernetes and GitOps to keep things up and running. It all ties back to that same itch: understand the pieces, connect them well, and build something that just awesome :)
 
 <p align="center"> 
    <a href="https://github.com/carlosgrillet?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/carlosgrillet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/carlosgrillet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
    <a href="https://github.com/carlosgrillet?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/carlosgrillet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/carlosgrillet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+</p>
+<p align="center"> 
+   <a href="https://wakatime.com/@92d75243-31c4-4db2-b1ab-3cdf5d30edd6"><img src="https://wakatime.com/badge/user/92d75243-31c4-4db2-b1ab-3cdf5d30edd6.svg" alt="Total time coded since Feb 25 2025" /></a>
 </p>
 
 ## 🧰 Tools and Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,md,cmake,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,postman,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=go,c,python,bash,md,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,postman,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 Stats
 
