@@ -1,6 +1,7 @@
 # 🐱‍👤 Carlos Grillet
 
-**`One more bit in the matrix (Developer/Engineer/Gamer)`**
+**`One more bit in the matrix (Developer/Engineer/Gamer)`** 
+[check my webpage](https://carlosgrillet.me) It's fully written in Go ;)
 
 What has always driven me is figuring out how things actually work, whether that means reading and uderstanding the source code, digging into docs, or just breaking stuff to see what happens 😄 That curiosity's given me a pretty wide and deep view of how systems work together, and honestly, I love to understand everything.
 
