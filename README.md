@@ -18,14 +18,15 @@ These days, I'm applying all that to the cloud side, using AWS and Terraform to 
    <a href="https://github.com/carlosgrillet?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/carlosgrillet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
-</p>
-<p align="center"> 
-   <a href="https://wakatime.com/@92d75243-31c4-4db2-b1ab-3cdf5d30edd6"><img src="https://wakatime.com/badge/user/92d75243-31c4-4db2-b1ab-3cdf5d30edd6.svg" alt="Total time coded since Feb 25 2025" /></a>
+   <br>
+   <a href="https://wakatime.com/@92d75243-31c4-4db2-b1ab-3cdf5d30edd6">
+      <img alt="wakatime" title="Total time coded since 2025" src="https://wakatime.com/badge/user/92d75243-31c4-4db2-b1ab-3cdf5d30edd6.svg?style=for-the-badge"/>
+   </a>
 </p>
 
 ## 🧰 Tools and Languages
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,python,bash,md,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,postman,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,c,python,bash,md,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 Stats
 
