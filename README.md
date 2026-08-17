@@ -5,7 +5,7 @@
 
 What has always driven me is figuring out how things actually work, whether that means reading and uderstanding the source code, digging into docs, or just breaking stuff to see what happens 😄 That curiosity's given me a pretty wide and deep view of how systems work together, and honestly, I love to understand everything.
 
-It started with programming. I code mostly in Go, C, and Python, and I'll throw in some Bash when I need to glue things together or automate stuff. That tinkering habit naturally spilled over into Linux and Unix systems; I'm comfortable on pretty much any Linux distro. And yeah, I'll happily compile something from source just to see how it's built.
+It started with programming. I code mostly in Go, Rust, C, and Python, and I'll throw in some Bash when I need to glue things together or automate stuff. That tinkering habit naturally spilled over into Linux and Unix systems; I'm comfortable on pretty much any Linux distro. And yeah, I'll happily compile something from source just to see how it's built.
 
 That same hands-on energy led me into networking too. I've worked with Cisco, Fortinet, and Mikrotik gear, setting up networks from scratch, debugging the usual headaches, and keeping things running. Along the way, I got really into automating repetitive tasks, whether through quick Python/Bash scripts or by designing systems that are both efficient and secure in Go.
 
