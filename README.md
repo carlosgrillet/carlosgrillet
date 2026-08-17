@@ -26,20 +26,21 @@ These days, I'm applying all that to the cloud side, using AWS and Terraform to 
 
 ## 🧰 Tools and Languages
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,c,python,bash,md,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,c,python,bash,md,regex,git,github,gitlab,nginx,docker,kubernetes,jenkins,githubactions,kafka,ansible,terraform,aws,linux,redhat,neovim,stackoverflow,ai&perline=8)](https://skillicons.dev) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=carlosgrillet&layout=compact&theme=github_dark&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📊 Stats
 
 ![Snake ](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosgrillet&show_icons=true&theme=github_dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+   <a href="https://github.com/stats-organization/github-stats-extended">
+      <img height=400 align="center" src="https://github-stats-extended.vercel.app/api?username=carlosgrillet&show_icons=true&theme=github_dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
    </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=carlosgrillet&theme=github_dark&hide_border=true&layout=compact" />
+   <a href="https://github.com/stats-organization/github-stats-extended">
+      <img height=600 align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=carlosgrillet&langs_count=20&theme=github_dark&hide_border=true&layout=compact"/>
    </a>
 </p>
+
 
 ---
 
